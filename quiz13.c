@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//1. dönem 3. quiz.
 int main()
 {
     int g=0,m=0,b=0,puan=0,tatilan=0,tyenilen=0 ;
