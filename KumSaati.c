@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//MUTLUHAN BOZ 170202009 TERMİNAL 23
+//BilLAb dersi kum saati 
 int main()
 {
 int x ;
