@@ -1,6 +1,6 @@
-#%%
 
 """ 
+Mutluhan Boz 17.11.2017
 You are given some text potentially including sensible words. 
 You should count how many words are included in the given text.
  A word should be whole and may be a part of other word. 
