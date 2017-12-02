@@ -1,3 +1,4 @@
+//Mutluhan Boz 02.12.2017
 #include <stdio.h>
 #include <math.h>
 void selectionSort(int x[]){
@@ -75,7 +76,7 @@ linearSearch(x,n);
 printf("\n \t \t \t \t--BUBLE SORTED--- \n") ;
 bubleSort(x);
 diziYaz(x);
-printf("\n !!TEKRAR KARIÞTIRILIYOR!!\n");
+printf("\n !!TEKRAR KARIÃžTIRILIYOR!!\n");
 printf("\t \t \t \t--UNSORTED-- \n ") ;
 int x2[]={6,3,1,5,7,9,10,2,14,11};
 diziYaz(x2);
