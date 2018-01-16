@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Finding primes with sieveOfEratosthenes 
+//Mutluhan Boz 16.01.18
 public class Primes {
 	static void sieveOfEratosthenes(int n) {
 		boolean prime[] = new boolean [n+1];		
