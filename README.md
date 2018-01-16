@@ -1,2 +1,2 @@
-# Denemecikler
-Python Java C Denemeler Ödevler Karalamalar
+
+Python Java C Code pieces
