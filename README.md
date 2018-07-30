@@ -1,2 +1,1 @@
-
-Python Java C Code pieces
+Solutions for challenges in Hackerrank Checkio etc.
